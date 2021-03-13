@@ -13,7 +13,4 @@ I have tried several libraries, and [easyocr](https://github.com/JaidedAI/EasyOC
 
 Below is the workflow of this mini-project.
 
-<figure>
-  <img src="https://github.com/mapattacker/ocr-imagesort/blob/master/ocr-flow.png?raw=true" style="width:80%" />
-  <figcaption></figcaption>
-</figure>
+<img src="https://github.com/mapattacker/ocr-imagesort/blob/master/ocr-flow.png?raw=true" width=80% />
